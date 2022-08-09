@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div>
   <h2>Hi! Im Lucas Salles🖐️</h2>
   <a href="https://www.linkedin.com/in/lucas-salles-0533ba199/" target="_blank">
