@@ -4,7 +4,7 @@
     <img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   </div>
-     <div align="center+5">
+     <div align="center">
      <img  style="width: 20%" src="https://64.media.tumblr.com/f71b359442636d0ffa1f2003bdd3db75/6f0b3960fd72ba28-50/s540x810/51cde37986dc4d06ba76dccc5607fcbd6c613013.gifv" />
   </div>
 </div>
