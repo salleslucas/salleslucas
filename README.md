@@ -5,7 +5,7 @@
   </a> 
   </div>
      <div align="center">
-     <img  style="width: 40%" src="https://cdn.discordapp.com/attachments/931008554142404682/931008839619317822/chrono-trigger-video-games.gif" />
+     <img  style="width: 40%" src="https://64.media.tumblr.com/f71b359442636d0ffa1f2003bdd3db75/6f0b3960fd72ba28-50/s540x810/51cde37986dc4d06ba76dccc5607fcbd6c613013.gifv" />
   </div>
 </div>
 
