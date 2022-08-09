@@ -1,5 +1,9 @@
-<div align="center">
-  <h2>Hi! Im Lucas Salles🖐️</h2>
+<div>
+  <div>
+    <h2>Hi! Im Lucas Salles🖐️</h2>
+  </div> 
+  
+  <div align="center">
   <a href="https://www.linkedin.com/in/lucas-salles-0533ba199/" target="_blank">
     <img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
