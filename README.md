@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Lucas Salles, a passionate Full Stack Software Engineer!
 
 [![LinkedIn](https://img.shields.io/badge/My%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-salles-0533ba199/)
-[![Instagram](https://img.shields.io/badge/My%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucassalles.dev) 
+[![Instagram](https://img.shields.io/badge/My%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.lucassalles) 
 [![Email](https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@lucassalles.com)
 
 I’m a **Full Stack Software Engineer at Globo**, passionate about building scalable, secure, and accessible digital solutions that truly impact people.  
