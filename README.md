@@ -1,15 +1,3 @@
-<div>
-  <h2>Hi! Im Lucas Salles🖐️</h2>
-  <a href="https://www.linkedin.com/in/lucas-salles-0533ba199/" target="_blank">
-    <img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salleslucas&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salleslucas&layout=compact&langs_count=7&theme=panda"/>
-</div>
-
 # 👋 Hey, I'm Lucas Salles  
 
 I’m a **Full Stack Software Developer at Globo**, passionate about building scalable, secure, and accessible digital solutions that truly impact people.  
@@ -71,14 +59,13 @@ Previously, during my internship at **Beijaflore (TIM Brasil)**, I worked on the
 ## 📊 GitHub Stats  
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasalles&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lasalles&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📫 Let’s Connect  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-salles-0533ba199/)  
-- 💻 [GitHub](https://github.com/lasalles)  
+- 💻 [GitHub](https://github.com/salleslucas)  
 
 ---
 
